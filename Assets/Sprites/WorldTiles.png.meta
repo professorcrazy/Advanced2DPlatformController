@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: eefb915ea9a9d4949b18f8f2e7136c05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3307036349021917150
+    second: WorldTiles_0
+  - first:
+      213: 8967517931794800537
+    second: WorldTiles_1
+  - first:
+      213: -2184110900979825385
+    second: WorldTiles_2
+  - first:
+      213: -2141817187207664541
+    second: WorldTiles_3
+  - first:
+      213: 2791475149134637247
+    second: WorldTiles_4
+  - first:
+      213: 3068933251124787600
+    second: WorldTiles_5
+  - first:
+      213: -3440873272206338855
+    second: WorldTiles_6
+  - first:
+      213: 3673494992817760658
+    second: WorldTiles_7
+  - first:
+      213: -5253322075854641901
+    second: WorldTiles_8
+  - first:
+      213: 8243413847668957712
+    second: WorldTiles_9
+  - first:
+      213: -8839668455405944412
+    second: WorldTiles_10
+  - first:
+      213: -196445902534656421
+    second: WorldTiles_11
+  - first:
+      213: 3648275761172605533
+    second: WorldTiles_12
+  - first:
+      213: -2945392122448464636
+    second: WorldTiles_13
+  - first:
+      213: 7242420658339931190
+    second: WorldTiles_14
+  - first:
+      213: 7766399048335735109
+    second: WorldTiles_15
+  - first:
+      213: -7792856770124084757
+    second: WorldTiles_16
+  - first:
+      213: 170127152462575596
+    second: WorldTiles_17
+  - first:
+      213: -7126483912290325573
+    second: WorldTiles_18
+  - first:
+      213: 9157013433740056885
+    second: WorldTiles_19
+  - first:
+      213: -80187999114666950
+    second: WorldTiles_20
+  - first:
+      213: -1529836727460168693
+    second: WorldTiles_21
+  - first:
+      213: -1765861644544130704
+    second: WorldTiles_22
+  - first:
+      213: 8793385536269244556
+    second: WorldTiles_23
+  - first:
+      213: 7731432397962603399
+    second: WorldTiles_24
+  - first:
+      213: -3880165153885850994
+    second: WorldTiles_25
+  - first:
+      213: -2706132625366260374
+    second: WorldTiles_26
+  - first:
+      213: 3055961887851120931
+    second: WorldTiles_27
+  - first:
+      213: -1096157537983738165
+    second: WorldTiles_28
+  - first:
+      213: 3817285388521964935
+    second: WorldTiles_29
+  - first:
+      213: -3913333073254028512
+    second: WorldTiles_30
+  - first:
+      213: 3286915803052839323
+    second: WorldTiles_31
+  - first:
+      213: 7041568516666409502
+    second: WorldTiles_32
+  - first:
+      213: 5440275622756577156
+    second: WorldTiles_33
+  - first:
+      213: 559275871355601933
+    second: WorldTiles_34
+  - first:
+      213: 927794049575090992
+    second: WorldTiles_35
+  - first:
+      213: 6471342129340040641
+    second: WorldTiles_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WorldTiles_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 883
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf81cab904f4ed20800000000000000
+      internalID: 3307036349021917150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 883
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f13990c06037c70800000000000000
+      internalID: 8967517931794800537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 883
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7150a0d15ba70b1e0800000000000000
+      internalID: -2184110900979825385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 882
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c29a6bd9cb642e0800000000000000
+      internalID: -2141817187207664541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 882
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb82087bbdf4db620800000000000000
+      internalID: 2791475149134637247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 873
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: 64}
+        - {x: -64, y: 64}
+        - {x: 64, y: -64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0997da0388a079a20800000000000000
+      internalID: 3068933251124787600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_6
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 873
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: 64}
+        - {x: -63, y: 64}
+        - {x: -64, y: 61}
+        - {x: -64, y: -64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4510d4dff8f30d0800000000000000
+      internalID: -3440873272206338855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2992413ab30eaf230800000000000000
+      internalID: 3673494992817760658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: 3}
+        - {x: -64, y: 3}
+        - {x: -64, y: -63}
+        - {x: -63, y: -64}
+        - {x: 64, y: -64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31567f1c7637817b0800000000000000
+      internalID: -5253322075854641901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01228de083d766270800000000000000
+      internalID: 8243413847668957712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_10
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 698
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a18d47df50335580800000000000000
+      internalID: -8839668455405944412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 698
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: 52}
+        - {x: -64, y: 52}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e37d11e75164df0800000000000000
+      internalID: -196445902534656421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_12
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 698
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 28}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64.5, y: 38}
+        - {x: -64.5, y: 38}
+        - {x: -64.5, y: -64}
+        - {x: 64.5, y: -64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a6c53b97741a230800000000000000
+      internalID: 3648275761172605533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 386
+        width: 155
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405b931587ddf17d0800000000000000
+      internalID: -2945392122448464636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 386
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6346d4e773f328460800000000000000
+      internalID: 7242420658339931190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 386
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549bbfb49cac7cb60800000000000000
+      internalID: 7766399048335735109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_16
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 386
+        width: 155
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9814f4e063ad390800000000000000
+      internalID: -7792856770124084757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_17
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 386
+        width: 155
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce73e296eb96c5200800000000000000
+      internalID: 170127152462575596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 193
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb2666b3a4a91d90800000000000000
+      internalID: -7126483912290325573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 193
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5395e89b33f341f70800000000000000
+      internalID: 9157013433740056885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_20
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 193
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c558d807d13eef0800000000000000
+      internalID: -80187999114666950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 193
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf36f0a9de4cae0800000000000000
+      internalID: -1529836727460168693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_22
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 76
+        width: 243
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071c572b0366e77e0800000000000000
+      internalID: -1765861644544130704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 65
+        width: 31
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 0.5, y: 21.5}
+        - {x: -12.5, y: -32.5}
+        - {x: 12.5, y: -32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d26e4e81680a70800000000000000
+      internalID: 8793385536269244556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 70
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 0.5, y: 21.5}
+        - {x: -12.5, y: -32.5}
+        - {x: 12.5, y: -32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78be1859dc09b4b60800000000000000
+      internalID: 7731432397962603399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 70
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 0.5, y: 21.5}
+        - {x: -12.5, y: -32}
+        - {x: 12.5, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82f8ccb952e62ac0800000000000000
+      internalID: -3880165153885850994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65e2f507b2e17ad0800000000000000
+      internalID: -2706132625366260374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 83
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3298f745525f86a20800000000000000
+      internalID: 3055961887851120931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_28
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 83
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcecc92e68aa9c0f0800000000000000
+      internalID: -1096157537983738165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 83
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785042506d8b9f430800000000000000
+      internalID: 3817285388521964935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_30
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 102
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02be7e8bd4c01b9c0800000000000000
+      internalID: -3913333073254028512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 94
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91159f02887d9d20800000000000000
+      internalID: 3286915803052839323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_32
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 93
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12c971124da8b160800000000000000
+      internalID: 7041568516666409502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 93
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f6f96eaddbf7b40800000000000000
+      internalID: 5440275622756577156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_34
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 94
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04099b1172f2c700800000000000000
+      internalID: 559275871355601933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_35
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 73
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bf4adb5cf20ec00800000000000000
+      internalID: 927794049575090992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_36
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 72
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c545574163dec950800000000000000
+      internalID: 6471342129340040641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldTiles_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 60
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -1}
+        - {x: -12, y: -51}
+        - {x: 12, y: -51}
+      - - {x: 36, y: -2}
+        - {x: 25, y: -51}
+        - {x: 47, y: -51}
+      - - {x: -36, y: -1}
+        - {x: -47, y: -51}
+        - {x: -24, y: -51}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f86a69f4951df4b953cc3da251478b
+      internalID: -1739357088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0c993d1ab84e934da0280a80882b861
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WorldTiles_0: 3307036349021917150
+      WorldTiles_1: 8967517931794800537
+      WorldTiles_10: -8839668455405944412
+      WorldTiles_11: -196445902534656421
+      WorldTiles_12: 3648275761172605533
+      WorldTiles_13: -2945392122448464636
+      WorldTiles_14: 7242420658339931190
+      WorldTiles_15: 7766399048335735109
+      WorldTiles_16: -7792856770124084757
+      WorldTiles_17: 170127152462575596
+      WorldTiles_18: -7126483912290325573
+      WorldTiles_19: 9157013433740056885
+      WorldTiles_2: -2184110900979825385
+      WorldTiles_20: -80187999114666950
+      WorldTiles_21: -1529836727460168693
+      WorldTiles_22: -1765861644544130704
+      WorldTiles_23: 8793385536269244556
+      WorldTiles_24: 7731432397962603399
+      WorldTiles_25: -3880165153885850994
+      WorldTiles_26: -2706132625366260374
+      WorldTiles_27: 3055961887851120931
+      WorldTiles_28: -1096157537983738165
+      WorldTiles_29: 3817285388521964935
+      WorldTiles_3: -2141817187207664541
+      WorldTiles_30: -3913333073254028512
+      WorldTiles_31: 3286915803052839323
+      WorldTiles_32: 7041568516666409502
+      WorldTiles_33: 5440275622756577156
+      WorldTiles_34: 559275871355601933
+      WorldTiles_35: 927794049575090992
+      WorldTiles_36: 6471342129340040641
+      WorldTiles_37: -1739357088
+      WorldTiles_4: 2791475149134637247
+      WorldTiles_5: 3068933251124787600
+      WorldTiles_6: -3440873272206338855
+      WorldTiles_7: 3673494992817760658
+      WorldTiles_8: -5253322075854641901
+      WorldTiles_9: 8243413847668957712
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
