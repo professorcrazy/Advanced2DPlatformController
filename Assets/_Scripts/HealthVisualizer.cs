@@ -27,7 +27,7 @@ public class HealthVisualizer : MonoBehaviour
     public bool LoseLife()
     {
         livesLeft--;
-        if (livesLeft < 0)
+        if (livesLeft <= 0)
         {
             MenuController.Instance.LoseGame();
             return false;
