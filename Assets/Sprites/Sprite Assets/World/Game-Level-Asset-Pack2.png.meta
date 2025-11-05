@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 90661e984d995ec42b70b8a423a131be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -893211290569194310
+    second: Game-Level-Asset-Pack2_0
+  - first:
+      213: -7164287533861030423
+    second: Game-Level-Asset-Pack2_1
+  - first:
+      213: 2871309777321403534
+    second: Game-Level-Asset-Pack2_2
+  - first:
+      213: 3932079101176543652
+    second: Game-Level-Asset-Pack2_3
+  - first:
+      213: 8503462421745675173
+    second: Game-Level-Asset-Pack2_4
+  - first:
+      213: -2733918450335954563
+    second: Game-Level-Asset-Pack2_5
+  - first:
+      213: -8510505114344562377
+    second: Game-Level-Asset-Pack2_6
+  - first:
+      213: -6093572665924061329
+    second: Game-Level-Asset-Pack2_7
+  - first:
+      213: 6834072147504851051
+    second: Game-Level-Asset-Pack2_8
+  - first:
+      213: 8188036912733862301
+    second: Game-Level-Asset-Pack2_9
+  - first:
+      213: 7855865620390291028
+    second: Game-Level-Asset-Pack2_10
+  - first:
+      213: -5016990147113496027
+    second: Game-Level-Asset-Pack2_11
+  - first:
+      213: -8044422418167137682
+    second: Game-Level-Asset-Pack2_12
+  - first:
+      213: 7175069630376356058
+    second: Game-Level-Asset-Pack2_13
+  - first:
+      213: -5955898516463129322
+    second: Game-Level-Asset-Pack2_14
+  - first:
+      213: 9133037711058130597
+    second: Game-Level-Asset-Pack2_15
+  - first:
+      213: -8274522464143618708
+    second: Game-Level-Asset-Pack2_16
+  - first:
+      213: 4876620817938298919
+    second: Game-Level-Asset-Pack2_17
+  - first:
+      213: -6993403557856447721
+    second: Game-Level-Asset-Pack2_18
+  - first:
+      213: 6826534196015114557
+    second: Game-Level-Asset-Pack2_19
+  - first:
+      213: -1609854598690338013
+    second: Game-Level-Asset-Pack2_20
+  - first:
+      213: 2897781884366756472
+    second: Game-Level-Asset-Pack2_21
+  - first:
+      213: -7035891853447958070
+    second: Game-Level-Asset-Pack2_22
+  - first:
+      213: -4298269889356807618
+    second: Game-Level-Asset-Pack2_23
+  - first:
+      213: -452341024372442348
+    second: Game-Level-Asset-Pack2_24
+  - first:
+      213: 7766341029303417173
+    second: Game-Level-Asset-Pack2_25
+  - first:
+      213: -2716362380532134303
+    second: Game-Level-Asset-Pack2_26
+  - first:
+      213: -7389448820905275068
+    second: Game-Level-Asset-Pack2_27
+  - first:
+      213: -6549476031116769268
+    second: Game-Level-Asset-Pack2_28
+  - first:
+      213: -2746065725697227650
+    second: Game-Level-Asset-Pack2_29
+  - first:
+      213: -1956224232194206546
+    second: Game-Level-Asset-Pack2_30
+  - first:
+      213: 3569993044977634166
+    second: Game-Level-Asset-Pack2_31
+  - first:
+      213: -4033973043602472557
+    second: Game-Level-Asset-Pack2_32
+  - first:
+      213: -2173588332379864158
+    second: Game-Level-Asset-Pack2_33
+  - first:
+      213: 188447592138620906
+    second: Game-Level-Asset-Pack2_34
+  - first:
+      213: -4473180604865573203
+    second: Game-Level-Asset-Pack2_35
+  - first:
+      213: -6472099188308627526
+    second: Game-Level-Asset-Pack2_36
+  - first:
+      213: -6632969746551333907
+    second: Game-Level-Asset-Pack2_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_0
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 608
+        width: 196
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4414c401daa93f0800000000000000
+      internalID: -893211290569194310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 902
+        width: 452
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5347b2276539c90800000000000000
+      internalID: -7164287533861030423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_2
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 653
+        width: 452
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8429559701f8d720800000000000000
+      internalID: 2871309777321403534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_3
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 455
+        width: 71
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a97d560c1d819630800000000000000
+      internalID: 3932079101176543652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 744
+        width: 452
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aba801f40e520670800000000000000
+      internalID: 8503462421745675173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 458
+        width: 197
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79c6d287ab2f0ad0800000000000000
+      internalID: -2733918450335954563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_6
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 457
+        width: 82
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731e85860bc94e980800000000000000
+      internalID: -8510505114344562377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_7
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 459
+        width: 198
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67f09a02f74f6ba0800000000000000
+      internalID: -6093572665924061329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_8
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 559
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68ea61e86087de50800000000000000
+      internalID: 6834072147504851051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_9
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 568
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99b947a030c1a170800000000000000
+      internalID: 8188036912733862301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_10
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 558
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8419252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456219ad824a50d60800000000000000
+      internalID: 7855865620390291028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 458
+        width: 196
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5225aa7da02106ab0800000000000000
+      internalID: -5016990147113496027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_12
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 458
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a75fd8e687c5090800000000000000
+      internalID: -8044422418167137682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_13
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 459
+        width: 71
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4873352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8a64d40d7f29360800000000000000
+      internalID: 7175069630376356058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_14
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 459
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d60ffdad5685da0800000000000000
+      internalID: -5955898516463129322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 233
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6ddd7c8611fbe70800000000000000
+      internalID: 9133037711058130597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 233
+        width: 163
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dcabeb8adfa2d80800000000000000
+      internalID: -8274522464143618708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_18
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 305
+        width: 144
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713730b448072fe90800000000000000
+      internalID: -6993403557856447721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_19
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 233
+        width: 156
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39a988cea8bcbe50800000000000000
+      internalID: 6826534196015114557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_20
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 236
+        width: 151
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b880995c5a8a9e0800000000000000
+      internalID: -1609854598690338013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_21
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 353
+        width: 92
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1e3e454df63820800000000000000
+      internalID: 2897781884366756472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_22
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 327
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac17b2513ad7b5e90800000000000000
+      internalID: -7035891853447958070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_23
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 232
+        width: 151
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3241201f4a7954c0800000000000000
+      internalID: -4298269889356807618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_24
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 233
+        width: 138
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bb1f42c36f8b9f0800000000000000
+      internalID: -452341024372442348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_25
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 235
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559fb20b40697cb60800000000000000
+      internalID: 7766341029303417173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_38
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 841
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0cd18082363844883ad41f9e5096d6
+      internalID: -393974500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_39
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c92dc5553533b9448e00adc060f79dc
+      internalID: -916674496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_40
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af6ada3f2eda3f43b599540b17fcf8b
+      internalID: -634708828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_41
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3aaab48206a904789b0c003f676bbd
+      internalID: -1635834586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_42
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 820
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3c7aa21bb5c4c44ae8f743738a0172
+      internalID: 1290860015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_43
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 803
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e10e199c03d5e4f98d0ba236a2752c
+      internalID: 1338309436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_44
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1deecdd11b26bb498c782c9000a2a5b
+      internalID: 847872883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_45
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d04b5373dc024498a091f3b2a71902
+      internalID: -1981820640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_46
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afeac86a14b94c4b9286c5d040331d7
+      internalID: -1235590733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_47
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e80ae9244fa0a4e835f59a61e70ffb
+      internalID: -498817701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_48
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b92dd5e92987d4b8040ba95ff94d2c
+      internalID: -1849897694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_49
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 858
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30cb45f23ed06f41bf769d0d12e591b
+      internalID: -254367572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_50
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 822
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f9066beacf4a489fc4d5ffa88841e
+      internalID: 35510622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_51
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 764
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a4650e57971b54d98c6bfceea2cd53
+      internalID: 541946553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_52
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 733
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d6d66111e84cd4e875e62e7977de98
+      internalID: 2100096562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_53
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 653
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282a5ac19ffffd14d9268b729d35af63
+      internalID: 1042960523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_54
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 653
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c1111b177ef7c429e27dafbb0dc27a
+      internalID: 124058761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_55
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 653
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a341aff00261f634e8aec00540c0079d
+      internalID: 622760400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_56
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 653
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc271f55b2ee249a3016b4d9460a60
+      internalID: 788525982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_57
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 653
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357264f8e2a7f554a9f2a55598750170
+      internalID: 1063451994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_58
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 799
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab808690367a4b84cb4804556d3f4e31
+      internalID: 667611707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_59
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 589
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea9bbbd69a96d479d8e139529e8aca
+      internalID: -1450801559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_60
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 525
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3644e4ed90086994eae94a5b8f6d5cd3
+      internalID: -2142888896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_61
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 461
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c806896dead8f9e4eaff441e42d2cfa2
+      internalID: 1247687792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_62
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 589
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500ff65ac61ba2549b24871a7acdc24b
+      internalID: 115798167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_63
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 589
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deffd2cdaf92e3d46bfffa91bfb6bfb7
+      internalID: -385963754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_64
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 525
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cce4d785289b34682ae5c8866e73ed
+      internalID: -510796925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_65
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 461
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ac9c1b1757221429d0f8e0e50da127
+      internalID: -119917368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_66
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 461
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6503e90acc970184cb67ec3e36546074
+      internalID: -214337859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_67
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 525
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56972a549767f24798a4abb8bd849c5
+      internalID: 1380682020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_68
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 540
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd5be82ac3af4469b28c5d1e63f1eb
+      internalID: -558019417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_69
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 506
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfbde19d8e6d48469ba3ad349a652fe
+      internalID: -2114675221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_70
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7971f84d4054aab4c96a75df35e5a806
+      internalID: -501582688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_71
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcedc7653501f604aaac96638e3b5a61
+      internalID: 1652770918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Level-Asset-Pack2_72
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6626a74f059e489ea5f3c8f41fd60
+      internalID: -1561493998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c6eb88cc07f40a74a8d405846446ef0b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game-Level-Asset-Pack2_0: -893211290569194310
+      Game-Level-Asset-Pack2_1: -7164287533861030423
+      Game-Level-Asset-Pack2_10: 7855865620390291028
+      Game-Level-Asset-Pack2_11: -5016990147113496027
+      Game-Level-Asset-Pack2_12: -8044422418167137682
+      Game-Level-Asset-Pack2_13: 7175069630376356058
+      Game-Level-Asset-Pack2_14: -5955898516463129322
+      Game-Level-Asset-Pack2_15: 9133037711058130597
+      Game-Level-Asset-Pack2_16: -8274522464143618708
+      Game-Level-Asset-Pack2_17: 4876620817938298919
+      Game-Level-Asset-Pack2_18: -6993403557856447721
+      Game-Level-Asset-Pack2_19: 6826534196015114557
+      Game-Level-Asset-Pack2_2: 2871309777321403534
+      Game-Level-Asset-Pack2_20: -1609854598690338013
+      Game-Level-Asset-Pack2_21: 2897781884366756472
+      Game-Level-Asset-Pack2_22: -7035891853447958070
+      Game-Level-Asset-Pack2_23: -4298269889356807618
+      Game-Level-Asset-Pack2_24: -452341024372442348
+      Game-Level-Asset-Pack2_25: 7766341029303417173
+      Game-Level-Asset-Pack2_26: -2716362380532134303
+      Game-Level-Asset-Pack2_27: -7389448820905275068
+      Game-Level-Asset-Pack2_28: -6549476031116769268
+      Game-Level-Asset-Pack2_29: -2746065725697227650
+      Game-Level-Asset-Pack2_3: 3932079101176543652
+      Game-Level-Asset-Pack2_30: -1956224232194206546
+      Game-Level-Asset-Pack2_31: 3569993044977634166
+      Game-Level-Asset-Pack2_32: -4033973043602472557
+      Game-Level-Asset-Pack2_33: -2173588332379864158
+      Game-Level-Asset-Pack2_34: 188447592138620906
+      Game-Level-Asset-Pack2_35: -4473180604865573203
+      Game-Level-Asset-Pack2_36: -6472099188308627526
+      Game-Level-Asset-Pack2_37: -6632969746551333907
+      Game-Level-Asset-Pack2_38: -393974500
+      Game-Level-Asset-Pack2_39: -916674496
+      Game-Level-Asset-Pack2_4: 8503462421745675173
+      Game-Level-Asset-Pack2_40: -634708828
+      Game-Level-Asset-Pack2_41: -1635834586
+      Game-Level-Asset-Pack2_42: 1290860015
+      Game-Level-Asset-Pack2_43: 1338309436
+      Game-Level-Asset-Pack2_44: 847872883
+      Game-Level-Asset-Pack2_45: -1981820640
+      Game-Level-Asset-Pack2_46: -1235590733
+      Game-Level-Asset-Pack2_47: -498817701
+      Game-Level-Asset-Pack2_48: -1849897694
+      Game-Level-Asset-Pack2_49: -254367572
+      Game-Level-Asset-Pack2_5: -2733918450335954563
+      Game-Level-Asset-Pack2_50: 35510622
+      Game-Level-Asset-Pack2_51: 541946553
+      Game-Level-Asset-Pack2_52: 2100096562
+      Game-Level-Asset-Pack2_53: 1042960523
+      Game-Level-Asset-Pack2_54: 124058761
+      Game-Level-Asset-Pack2_55: 622760400
+      Game-Level-Asset-Pack2_56: 788525982
+      Game-Level-Asset-Pack2_57: 1063451994
+      Game-Level-Asset-Pack2_58: 667611707
+      Game-Level-Asset-Pack2_59: -1450801559
+      Game-Level-Asset-Pack2_6: -8510505114344562377
+      Game-Level-Asset-Pack2_60: -2142888896
+      Game-Level-Asset-Pack2_61: 1247687792
+      Game-Level-Asset-Pack2_62: 115798167
+      Game-Level-Asset-Pack2_63: -385963754
+      Game-Level-Asset-Pack2_64: -510796925
+      Game-Level-Asset-Pack2_65: -119917368
+      Game-Level-Asset-Pack2_66: -214337859
+      Game-Level-Asset-Pack2_67: 1380682020
+      Game-Level-Asset-Pack2_68: -558019417
+      Game-Level-Asset-Pack2_69: -2114675221
+      Game-Level-Asset-Pack2_7: -6093572665924061329
+      Game-Level-Asset-Pack2_70: -501582688
+      Game-Level-Asset-Pack2_71: 1652770918
+      Game-Level-Asset-Pack2_72: -1561493998
+      Game-Level-Asset-Pack2_73: 993502526
+      Game-Level-Asset-Pack2_8: 6834072147504851051
+      Game-Level-Asset-Pack2_9: 8188036912733862301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

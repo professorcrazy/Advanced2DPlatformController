@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 01d7648904fb9004ab2ccc93b23e50f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8707812601807532062
+    second: Lag 4_0
+  - first:
+      213: -2319462137916453260
+    second: Lag 4_1
+  - first:
+      213: 4073258929608218360
+    second: Lag 4_2
+  - first:
+      213: -3128209595243240886
+    second: Lag 4_3
+  - first:
+      213: 2073726776041078211
+    second: Lag 4_4
+  - first:
+      213: 6161875785966264714
+    second: Lag 4_5
+  - first:
+      213: 7593959986236512991
+    second: Lag 4_6
+  - first:
+      213: -9168992127607715162
+    second: Lag 4_7
+  - first:
+      213: 6454912968261477755
+    second: Lag 4_8
+  - first:
+      213: 2961032072755397246
+    second: Lag 4_9
+  - first:
+      213: -6153432486420326779
+    second: Lag 4_10
+  - first:
+      213: -7052225713430564420
+    second: Lag 4_11
+  - first:
+      213: -7669412604075527310
+    second: Lag 4_12
+  - first:
+      213: 8061746062358247458
+    second: Lag 4_13
+  - first:
+      213: -3592057585732739366
+    second: Lag 4_14
+  - first:
+      213: -4289328082320340694
+    second: Lag 4_15
+  - first:
+      213: -2137759013990158294
+    second: Lag 4_16
+  - first:
+      213: -348483378014764975
+    second: Lag 4_17
+  - first:
+      213: -5147417278152291788
+    second: Lag 4_18
+  - first:
+      213: -9188738284050522088
+    second: Lag 4_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lag 4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 68
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef879a1392a72780800000000000000
+      internalID: -8707812601807532062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 135
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e858f797d9fcfd0800000000000000
+      internalID: -2319462137916453260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 119
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f65c795a6f178830800000000000000
+      internalID: 4073258929608218360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 154
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42ee8472fd5694d0800000000000000
+      internalID: -3128209595243240886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 151
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdf427048b57cc10800000000000000
+      internalID: 2073726776041078211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 82
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81a99c5161638550800000000000000
+      internalID: 6161875785966264714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 122
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda582a7f5a236960800000000000000
+      internalID: 7593959986236512991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aac6954d3231c080800000000000000
+      internalID: -9168992127607715162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 130
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a9412525749950800000000000000
+      internalID: 6454912968261477755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 122
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72cf116bf2b71920800000000000000
+      internalID: 2961032072755397246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 87
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586519181cd9a9aa0800000000000000
+      internalID: -6153432486420326779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 94
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb17813f316712e90800000000000000
+      internalID: -7052225713430564420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 111
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273bc22fed5c09590800000000000000
+      internalID: -7669412604075527310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 99
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228744ca45311ef60800000000000000
+      internalID: 8061746062358247458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 116
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade17a548a2762ec0800000000000000
+      internalID: -3592057585732739366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_15
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a294030c5de3974c0800000000000000
+      internalID: -4289328082320340694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 137
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a203abbc0872552e0800000000000000
+      internalID: -2137759013990158294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1504d4bc630f92bf0800000000000000
+      internalID: -348483378014764975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a4609f143b098b0800000000000000
+      internalID: -5147417278152291788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lag 4_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 5
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810e225f63b0b7080800000000000000
+      internalID: -9188738284050522088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lag 4_0: -8707812601807532062
+      Lag 4_1: -2319462137916453260
+      Lag 4_10: -6153432486420326779
+      Lag 4_11: -7052225713430564420
+      Lag 4_12: -7669412604075527310
+      Lag 4_13: 8061746062358247458
+      Lag 4_14: -3592057585732739366
+      Lag 4_15: -4289328082320340694
+      Lag 4_16: -2137759013990158294
+      Lag 4_17: -348483378014764975
+      Lag 4_18: -5147417278152291788
+      Lag 4_19: -9188738284050522088
+      Lag 4_2: 4073258929608218360
+      Lag 4_3: -3128209595243240886
+      Lag 4_4: 2073726776041078211
+      Lag 4_5: 6161875785966264714
+      Lag 4_6: 7593959986236512991
+      Lag 4_7: -9168992127607715162
+      Lag 4_8: 6454912968261477755
+      Lag 4_9: 2961032072755397246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

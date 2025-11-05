@@ -8,16 +8,30 @@ public class PlayerHealth : MonoBehaviour, IHealth
     float damageDelay = 0.25f;
     float lastDamage = 0f;
     bool canTakeDamage = true;
+    bool useAnim;
+    Animator anim;
+    [SerializeField] float deathAmimDuration = 1.2f;
     private void Start()
     {
+        TryGetComponent<Animator>(out anim);
+        if (anim != null)
+        {
+            useAnim = true;
+        }
         InitiatePlayerHealth();
+
     }
 
     public void InitiatePlayerHealth()
     {
         hp = maxHP;
         lastDamage = Time.timeSinceLevelLoad;
+        if (useAnim) {
+            anim.SetBool("Died", false);
+            GetComponent<PlatformControllerAdv>()?.SetPlayerDead(false);
+        }
         canTakeDamage = true;
+        GetComponent<PlayerRespawn>()?.RewpawnPlayer();
     }
     public void TakeDamage(int dmg)
     {
@@ -26,17 +40,19 @@ public class PlayerHealth : MonoBehaviour, IHealth
             return;
         }
         
-
         hp -= dmg;
         if (hp <= 0)
         {
-            canTakeDamage = false;
             StartCoroutine(DamageCooldown(damageDelay));
-            if (HealthVisualizer.Instance.LoseLife() && canTakeDamage) { 
-                Debug.Log("Died at: " + Time.timeAsDouble);
-                GetComponent<PlayerRespawn>()?.RewpawnPlayer();
-                InitiatePlayerHealth();
+            if (useAnim)
+            {
+                anim.SetBool("Died", true);
+                GetComponent<PlatformControllerAdv>()?.SetPlayerDead(true);
             }
+            if (HealthVisualizer.Instance.LoseLife() && canTakeDamage) {
+                Invoke("InitiatePlayerHealth", deathAmimDuration);
+            }
+            canTakeDamage = false;
         }
     }
     IEnumerator DamageCooldown(float delay)

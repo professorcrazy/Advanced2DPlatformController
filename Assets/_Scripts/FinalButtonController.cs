@@ -7,7 +7,7 @@ public class FinalButtonController : MonoBehaviour
     [SerializeField] float winDelay = 2f;
     float duration = 0f;
     bool won;
-    SpriteRenderer renderer;
+    private new SpriteRenderer renderer;
     [SerializeField] Color startColor, winColor;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created

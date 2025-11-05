@@ -30,6 +30,8 @@ public class PlatformControllerAdv : MonoBehaviour
     [SerializeField] float jumpBufferTime = 0.2f;
     [SerializeField] float jumpBufferCounter;
     [SerializeField] ParticleSystem jumpEffect;
+
+    //----- Animation -----\\
     private Animator anim;
     private bool useAnim = true;
     bool jump = false;
@@ -57,7 +59,11 @@ public class PlatformControllerAdv : MonoBehaviour
     [SerializeField] float dashingTime = 0.2f;
     [SerializeField] float dashingCooldown = 1f;
     [SerializeField] TrailRenderer trail;
-
+    private bool playerisDead = false;
+    public void SetPlayerDead(bool val)
+    {
+        playerisDead = val;
+    }
     private void Awake()
     {
         playerInput = new PlayerInput();
@@ -79,8 +85,9 @@ public class PlatformControllerAdv : MonoBehaviour
     //----- Input methods -----\\
     public void Move(InputAction.CallbackContext context)
     {
-        if (MenuController.Instance.pausedGame)
+        if (MenuController.Instance.pausedGame || playerisDead)
         {
+            inputX = 0;
             return;
         }
         inputX = context.ReadValue<Vector2>().x;
@@ -151,6 +158,9 @@ public class PlatformControllerAdv : MonoBehaviour
         //Coyote time 
         if (isGrounded)
         {
+            if (useAnim) {
+                anim.SetBool("IsGrounded", true);
+            }
             coyoteTimeLeft = coyoteTime;
         }
         else
@@ -171,6 +181,10 @@ public class PlatformControllerAdv : MonoBehaviour
         if (jumpBufferCounter > 0f && coyoteTimeLeft > 0f)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            if (useAnim) {
+                //anim.SetTrigger("Jump");
+                anim.SetBool("IsGrounded", false);
+            }
             jumpEffect.Play();
             isJumping = true;
             jumpTimeLeft = jumpTime;
@@ -243,6 +257,9 @@ public class PlatformControllerAdv : MonoBehaviour
     //----- Dash -----\\
     IEnumerator Dash()
     {
+        if (useAnim) { 
+            anim.SetBool("IsDashing", true);
+        }
         canDash = false;
         isDashing = true;
         float orgGravity = rb.gravityScale;
@@ -253,6 +270,9 @@ public class PlatformControllerAdv : MonoBehaviour
         trail.emitting = false;
         rb.gravityScale = orgGravity;
         isDashing = false;
+        if (useAnim) {
+            anim.SetBool("IsDashing", false);
+        }
         yield return new WaitForSeconds(dashingCooldown);
         canDash = true;
     }

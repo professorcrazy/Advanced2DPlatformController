@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -6,6 +7,7 @@ public class HealthVisualizer : MonoBehaviour
     public static HealthVisualizer Instance;
     [SerializeField] Image[] heartIcons;
     int livesLeft;
+    [SerializeField] float loseGameDelay = 1.2f;
     private void Start()
     {
         if (Instance != null)
@@ -27,13 +29,19 @@ public class HealthVisualizer : MonoBehaviour
     public bool LoseLife()
     {
         livesLeft--;
+        if (livesLeft >= 0)
+            heartIcons[livesLeft].color = Color.black;
         if (livesLeft <= 0)
         {
-            MenuController.Instance.LoseGame();
+            StartCoroutine(LoseGameDelay(loseGameDelay));
             return false;
         }
-        heartIcons[livesLeft].color = Color.black;
         return true;
+    }
 
+    IEnumerator LoseGameDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        MenuController.Instance.LoseGame();
     }
 }

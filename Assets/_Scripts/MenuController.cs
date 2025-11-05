@@ -51,6 +51,7 @@ public class MenuController : MonoBehaviour
     {
         LoadLevel(SceneManager.GetActiveScene().buildIndex);
     }
+
     public void PauseGame()
     {
         pausedGame = !pausedGame;

@@ -1,0 +1,2968 @@
+fileFormatVersion: 2
+guid: 3dd7881ac4bf44d4baf155b870ec4ddd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5209491868715631228
+    second: Game-Stage-Asset-Pack2_0
+  - first:
+      213: 1627814314727709453
+    second: Game-Stage-Asset-Pack2_1
+  - first:
+      213: 8429335966054955629
+    second: Game-Stage-Asset-Pack2_2
+  - first:
+      213: 1179715578866001278
+    second: Game-Stage-Asset-Pack2_3
+  - first:
+      213: 4806893885752179067
+    second: Game-Stage-Asset-Pack2_4
+  - first:
+      213: 6083592603202494484
+    second: Game-Stage-Asset-Pack2_5
+  - first:
+      213: 4636204731157282476
+    second: Game-Stage-Asset-Pack2_6
+  - first:
+      213: 7439767304121706308
+    second: Game-Stage-Asset-Pack2_7
+  - first:
+      213: 5619051686659350609
+    second: Game-Stage-Asset-Pack2_8
+  - first:
+      213: 1931029445415660433
+    second: Game-Stage-Asset-Pack2_9
+  - first:
+      213: 3118254896636031364
+    second: Game-Stage-Asset-Pack2_10
+  - first:
+      213: -3946435158574575600
+    second: Game-Stage-Asset-Pack2_11
+  - first:
+      213: 7235335231965895939
+    second: Game-Stage-Asset-Pack2_12
+  - first:
+      213: 5470757997592447850
+    second: Game-Stage-Asset-Pack2_13
+  - first:
+      213: -5469303636488570702
+    second: Game-Stage-Asset-Pack2_14
+  - first:
+      213: -1933609394643612378
+    second: Game-Stage-Asset-Pack2_15
+  - first:
+      213: 8910153112581905250
+    second: Game-Stage-Asset-Pack2_16
+  - first:
+      213: -4620223148712322087
+    second: Game-Stage-Asset-Pack2_17
+  - first:
+      213: 8844189637141428891
+    second: Game-Stage-Asset-Pack2_18
+  - first:
+      213: -1523479211724567927
+    second: Game-Stage-Asset-Pack2_19
+  - first:
+      213: -5291889332343636491
+    second: Game-Stage-Asset-Pack2_20
+  - first:
+      213: 242034361041529564
+    second: Game-Stage-Asset-Pack2_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_0
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1537
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d3be81fba24b7b0800000000000000
+      internalID: -5209491868715631228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_1
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b14a5ae78279610800000000000000
+      internalID: 1627814314727709453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1323
+        width: 185
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a312d86640bf470800000000000000
+      internalID: 8429335966054955629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1403
+        width: 182
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e756d4e81113f5010800000000000000
+      internalID: 1179715578866001278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1408
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b797145658485b240800000000000000
+      internalID: 4806893885752179067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_5
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1407
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41024188d334d6450800000000000000
+      internalID: 6083592603202494484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_6
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 898
+        width: 87
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae7d9aa3ab175040800000000000000
+      internalID: 4636204731157282476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_7
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1161
+        width: 129
+        height: 337
+      alignment: 9
+      pivot: {x: 0.49459106, y: 0.90378034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4476dbd02fc5f3760800000000000000
+      internalID: 7439767304121706308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_8
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1100
+        width: 198
+        height: 398
+      alignment: 9
+      pivot: {x: 0.46828082, y: 0.92079324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150e3edecb1eafd40800000000000000
+      internalID: 5619051686659350609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_9
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1141
+        width: 218
+        height: 357
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9085249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19be1d0bc056cca10800000000000000
+      internalID: 1931029445415660433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_10
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481fc19ae44464b20800000000000000
+      internalID: 3118254896636031364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1078
+        width: 449
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010dc04e1227b39c0800000000000000
+      internalID: -3946435158574575600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_12
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1241
+        width: 103
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d123c1f03196460800000000000000
+      internalID: 7235335231965895939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_13
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1102
+        width: 56
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b00aad9690ceb40800000000000000
+      internalID: 5470757997592447850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 843
+        width: 448
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8b85af1512914b0800000000000000
+      internalID: -5469303636488570702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_15
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1021
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dc8e110807a25e0800000000000000
+      internalID: -1933609394643612378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_16
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 975
+        width: 247
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b19c14c0937ab70800000000000000
+      internalID: 8910153112581905250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_17
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 387
+        width: 528
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db17f5768ba1efb0800000000000000
+      internalID: -4620223148712322087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_18
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 876
+        width: 33
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a7100dd9fdcba70800000000000000
+      internalID: 8844189637141428891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_19
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a077a8ab38bdae0800000000000000
+      internalID: -1523479211724567927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 425
+        width: 471
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd7afa90be6f86b0800000000000000
+      internalID: -5291889332343636491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_21
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 736
+        width: 66
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaa15118f0eb5300800000000000000
+      internalID: 242034361041529564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_22
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 749
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a862ec0c4aa36c42b853f0e49048dcb
+      internalID: -98177766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_23
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 707
+        width: 448
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3220705c22f8b0c43aa100ee910ddffa
+      internalID: -568744957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_24
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 118
+        width: 1150
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23f5291c5bf04349b260ed6f483d03c
+      internalID: 1621285276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab61328278fef4080b125a609c323c
+      internalID: -1891606736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_26
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe384fa1a80af740a215826abb3ab00
+      internalID: -923959861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_27
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5826c98da90fb14fad4fa97a605abbb
+      internalID: -284335199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_28
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13d097cf2ce375479e695f898b0e194
+      internalID: 139004474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_29
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b0e1fcaf60f5849a68cfaf119d0324
+      internalID: -153236913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_30
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 835
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458f3512cd3682f49913df7450e9f8bc
+      internalID: 498695720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5085950d6cd5a314fb86c15518be91e5
+      internalID: -636765035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_32
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63779db8c070d1948836e4e93ad86f4d
+      internalID: 2051143225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_33
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4746e24ee9686d847b7950a89fa6019f
+      internalID: -1319195208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_34
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b177bba866bdf8948b576b495067a56b
+      internalID: 87179836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_35
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456dd3d8ca23e38458be6318a31240ab
+      internalID: 1800833107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_36
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09134618116c98145bfb487feec82dd3
+      internalID: -1964956682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_37
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d2d5da37181a345a49c0c1e96da956
+      internalID: 1450207043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_38
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14487f259bf60ce439e270950d525fdf
+      internalID: 526560603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_39
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 771
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a05e79058826b49b44b9ab50cf4aa1
+      internalID: -1162779792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_40
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd479d5b42d7c7498cceab1b4fd0281
+      internalID: 1920153238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_41
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d8f631acb380428e668dfdfe998e9
+      internalID: -2074456282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_42
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161c9de34b21b994f8d73a576ee5e968
+      internalID: 1735450980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_43
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d972d9c3a88ae294a882744c6c54548d
+      internalID: -126344193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_44
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 707
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b4edc27a2798844910d36b056efca6
+      internalID: 1443860733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_45
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c669f394087774abce8ea3c2f93d75
+      internalID: 1757198880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_46
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac72d791b6e404496dc48681e488e9
+      internalID: -126972789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_47
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97860c4d21ac11d408502119a46085de
+      internalID: -1902394619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_48
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908f22e34e8acb047be8169dc271214c
+      internalID: -2106309426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_49
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40daf0341919900418dac0371541d828
+      internalID: 643451057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_50
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1718f0680222df48974241cf520f588
+      internalID: 341004509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_51
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c42c641ba024844b4da928db83508d
+      internalID: 1957734820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_52
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f57819a6a5854399a3d21a414e787
+      internalID: 396439814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_53
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1191
+        width: 468
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d03736617d96c49a85a998c3e6b20e
+      internalID: -863007681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_54
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36477dda2b4cb14da9f57e1bd44e431
+      internalID: -1999373549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_55
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99002a8391cff1c41b91969414743e26
+      internalID: 1015165368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_56
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 971
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d258ff69b95246549bebe1c5fe2b8d38
+      internalID: 1914292504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_57
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1a442fc7b04b644ad2776804e70126
+      internalID: 1373532515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_58
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99936757e299a3d489307a2bfc78602d
+      internalID: 1472644164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_59
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 971
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deffa2ce2ab1af9498352dc8979bde9b
+      internalID: 12150679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_60
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 971
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5436ab344286ed843b801d7865ba73fa
+      internalID: -740997124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_61
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 971
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeab3e32db8c7ff4ca7300d8b9c1b57f
+      internalID: -1381526852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_62
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 971
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaf1c8d8332b4c459d95fac7120b15e
+      internalID: 477824634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_63
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 971
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c829d47a8c514624ea5edf8e15e0c48f
+      internalID: 301172019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_64
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 971
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e8360fd17a1ea4aa356f31bf356206
+      internalID: 1913649307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_65
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb5b7ddbcc41ef4585c6e4afb1f33e9
+      internalID: -1311523586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_66
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3c68117e9767448be3e8f7f516e173
+      internalID: 505381337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_67
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49421b878d6730e4dacc0e6865a71361
+      internalID: 437403867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_68
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886492c4d2137dd45a60b152e0e54b2d
+      internalID: -246545958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_69
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21af2bd4319b68542b86ac9af86ee991
+      internalID: 1666336420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_70
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cace6f599a1893342883658534456644
+      internalID: -1012314060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_71
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff90e4097fe1d7a4397936031f17ac47
+      internalID: 566971530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_72
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc52d88ce25490e46841f330a2bfe31f
+      internalID: -1796932874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_73
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ccb536efc7c4e4e9b0e40b11c91634
+      internalID: 822804319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_74
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcb3ea78e3d59944ba4b8ebfbc9491c
+      internalID: 1671573193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_75
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7378a1ec0aa1f9a4c8b0e2d3f1d00acf
+      internalID: 916991000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_76
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd4739e68645994e9762a691136dd11
+      internalID: -1283156451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_77
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 309
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0823ee145f37ff445aac3e76c5561d71
+      internalID: -1350409320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_78
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f78fccb3c1efe47b61f226f7563232
+      internalID: 796870152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_79
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1cec373b624f940b36d82bf064737e
+      internalID: -1567833628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_80
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 120
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58036ba5b19231a48ac01b211afafc61
+      internalID: -1296374701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_81
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 309
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b6c3f3546a01f4fb87572bdd77d4fa
+      internalID: 2133075543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_82
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 309
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a1939905c04784ca48fd9551836ebc
+      internalID: -2049076180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_83
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 309
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f500b56e569e7634fb775f32bb6b68d4
+      internalID: -1114505930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_84
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 309
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e5aa55fac6e3849a59691b7ec90674
+      internalID: -1742656728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_85
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 245
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be04751ff33e3e4fbffa2e6a47a7366
+      internalID: 539309702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_86
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 245
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b82fd0a02801a24e87e6b104cfa7936
+      internalID: 1807790146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_87
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 245
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac8a863f4f23af46ae9a45918213a98
+      internalID: 1557183780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_88
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1207
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a4a4e5c8009434bae5df647aa5ff53
+      internalID: -1786840644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_89
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735e3478007e5bf44975a34a779daf1e
+      internalID: 1012562152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_90
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1079
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6488065f5231b8c4095fdf1230fc03f4
+      internalID: 914852400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_91
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1207
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9d91c541258d94f8e6e04a9459bb9a
+      internalID: 974305882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_92
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1207
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b55a6353da5451439b3f100e1ec8305
+      internalID: 1348580352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_93
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1207
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab6b59c9db1ea84fac158a005588a2a
+      internalID: 815102285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_94
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1207
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59230a7c6c6bf7d428f988eaf07bf49c
+      internalID: -448511142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_95
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1207
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c993ab86b7c794686a00785f2779da
+      internalID: 360398733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_96
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1207
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123906c52f7b2584e992469ee71da98b
+      internalID: 1922656023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_97
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97d25e43c0715942b6d9285ea0f457f
+      internalID: -2035102060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_98
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34af050de817aa444917f1c110dbd36a
+      internalID: 1658158796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_99
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52704a030bb284c99038f1504eb9a2
+      internalID: 1595435262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_100
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b30f65538db154d8df3edae92ad479
+      internalID: -990803559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_101
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4358027868a8db46b72b41a067f41d2
+      internalID: -261150454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_102
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d041c33faeb024f95aa5af3a33bbac
+      internalID: 1578918718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_103
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1079
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4edc88fbeca3a458879ed9c315bddb
+      internalID: -801936662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_104
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1079
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228bfef9ba937514498819b5d0f1801a
+      internalID: -568655432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_105
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1079
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee94e9355450a48be7ecf522cab50a
+      internalID: -1678100980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_106
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1079
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc590bb4a6033a419ab21581a24f849
+      internalID: -384500680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_107
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1079
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7606abc3fff5c3142bcbfec316776b8b
+      internalID: -1184263313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_108
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1079
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b02b53936506734f87026436ecb8d1f
+      internalID: -1950740994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_109
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac43f831df0ce624cb30a13225d5abf9
+      internalID: -1814181231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_110
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a34b4e915afbb42bec352b95d56782
+      internalID: -222763706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_111
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad94a65a0a30a634695a1b9f84a4b06d
+      internalID: 1602793636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_112
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f61c2d54df20b4ebac639e06d90c75
+      internalID: -377276466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_113
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d5f812704d0d349a18bfd6dea8357a
+      internalID: -1254589372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_114
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a5c7ef854f1a44f90cf848c6ad4c25
+      internalID: -717421882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_115
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0038f177b6f9146b6734a81c1b301e
+      internalID: 1964511927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_116
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a111099d5adb27846bdb1043b5d869aa
+      internalID: 434080322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_117
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8040c52be5f4d28429520dcd536de65b
+      internalID: -450294519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_118
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cd60323fc79cd46b8d3c5a43ab7bd9
+      internalID: 1298391775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_119
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0bc843dbf046643bbbaa030f777de2
+      internalID: -611028825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Stage-Asset-Pack2_120
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d991c743560e4d54481ea249b4a5439f
+      internalID: -1555522685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fbf2ee34a18401d4797a30c48665396a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Game-Stage-Asset-Pack2_0: -5209491868715631228
+      Game-Stage-Asset-Pack2_1: 1627814314727709453
+      Game-Stage-Asset-Pack2_10: 3118254896636031364
+      Game-Stage-Asset-Pack2_100: -990803559
+      Game-Stage-Asset-Pack2_101: -261150454
+      Game-Stage-Asset-Pack2_102: 1578918718
+      Game-Stage-Asset-Pack2_103: -801936662
+      Game-Stage-Asset-Pack2_104: -568655432
+      Game-Stage-Asset-Pack2_105: -1678100980
+      Game-Stage-Asset-Pack2_106: -384500680
+      Game-Stage-Asset-Pack2_107: -1184263313
+      Game-Stage-Asset-Pack2_108: -1950740994
+      Game-Stage-Asset-Pack2_109: -1814181231
+      Game-Stage-Asset-Pack2_11: -3946435158574575600
+      Game-Stage-Asset-Pack2_110: -222763706
+      Game-Stage-Asset-Pack2_111: 1602793636
+      Game-Stage-Asset-Pack2_112: -377276466
+      Game-Stage-Asset-Pack2_113: -1254589372
+      Game-Stage-Asset-Pack2_114: -717421882
+      Game-Stage-Asset-Pack2_115: 1964511927
+      Game-Stage-Asset-Pack2_116: 434080322
+      Game-Stage-Asset-Pack2_117: -450294519
+      Game-Stage-Asset-Pack2_118: 1298391775
+      Game-Stage-Asset-Pack2_119: -611028825
+      Game-Stage-Asset-Pack2_12: 7235335231965895939
+      Game-Stage-Asset-Pack2_120: -1555522685
+      Game-Stage-Asset-Pack2_13: 5470757997592447850
+      Game-Stage-Asset-Pack2_14: -5469303636488570702
+      Game-Stage-Asset-Pack2_15: -1933609394643612378
+      Game-Stage-Asset-Pack2_16: 8910153112581905250
+      Game-Stage-Asset-Pack2_17: -4620223148712322087
+      Game-Stage-Asset-Pack2_18: 8844189637141428891
+      Game-Stage-Asset-Pack2_19: -1523479211724567927
+      Game-Stage-Asset-Pack2_2: 8429335966054955629
+      Game-Stage-Asset-Pack2_20: -5291889332343636491
+      Game-Stage-Asset-Pack2_21: 242034361041529564
+      Game-Stage-Asset-Pack2_22: -98177766
+      Game-Stage-Asset-Pack2_23: -568744957
+      Game-Stage-Asset-Pack2_24: 1621285276
+      Game-Stage-Asset-Pack2_25: -1891606736
+      Game-Stage-Asset-Pack2_26: -923959861
+      Game-Stage-Asset-Pack2_27: -284335199
+      Game-Stage-Asset-Pack2_28: 139004474
+      Game-Stage-Asset-Pack2_29: -153236913
+      Game-Stage-Asset-Pack2_3: 1179715578866001278
+      Game-Stage-Asset-Pack2_30: 498695720
+      Game-Stage-Asset-Pack2_31: -636765035
+      Game-Stage-Asset-Pack2_32: 2051143225
+      Game-Stage-Asset-Pack2_33: -1319195208
+      Game-Stage-Asset-Pack2_34: 87179836
+      Game-Stage-Asset-Pack2_35: 1800833107
+      Game-Stage-Asset-Pack2_36: -1964956682
+      Game-Stage-Asset-Pack2_37: 1450207043
+      Game-Stage-Asset-Pack2_38: 526560603
+      Game-Stage-Asset-Pack2_39: -1162779792
+      Game-Stage-Asset-Pack2_4: 4806893885752179067
+      Game-Stage-Asset-Pack2_40: 1920153238
+      Game-Stage-Asset-Pack2_41: -2074456282
+      Game-Stage-Asset-Pack2_42: 1735450980
+      Game-Stage-Asset-Pack2_43: -126344193
+      Game-Stage-Asset-Pack2_44: 1443860733
+      Game-Stage-Asset-Pack2_45: 1757198880
+      Game-Stage-Asset-Pack2_46: -126972789
+      Game-Stage-Asset-Pack2_47: -1902394619
+      Game-Stage-Asset-Pack2_48: -2106309426
+      Game-Stage-Asset-Pack2_49: 643451057
+      Game-Stage-Asset-Pack2_5: 6083592603202494484
+      Game-Stage-Asset-Pack2_50: 341004509
+      Game-Stage-Asset-Pack2_51: 1957734820
+      Game-Stage-Asset-Pack2_52: 396439814
+      Game-Stage-Asset-Pack2_53: -863007681
+      Game-Stage-Asset-Pack2_54: -1999373549
+      Game-Stage-Asset-Pack2_55: 1015165368
+      Game-Stage-Asset-Pack2_56: 1914292504
+      Game-Stage-Asset-Pack2_57: 1373532515
+      Game-Stage-Asset-Pack2_58: 1472644164
+      Game-Stage-Asset-Pack2_59: 12150679
+      Game-Stage-Asset-Pack2_6: 4636204731157282476
+      Game-Stage-Asset-Pack2_60: -740997124
+      Game-Stage-Asset-Pack2_61: -1381526852
+      Game-Stage-Asset-Pack2_62: 477824634
+      Game-Stage-Asset-Pack2_63: 301172019
+      Game-Stage-Asset-Pack2_64: 1913649307
+      Game-Stage-Asset-Pack2_65: -1311523586
+      Game-Stage-Asset-Pack2_66: 505381337
+      Game-Stage-Asset-Pack2_67: 437403867
+      Game-Stage-Asset-Pack2_68: -246545958
+      Game-Stage-Asset-Pack2_69: 1666336420
+      Game-Stage-Asset-Pack2_7: 7439767304121706308
+      Game-Stage-Asset-Pack2_70: -1012314060
+      Game-Stage-Asset-Pack2_71: 566971530
+      Game-Stage-Asset-Pack2_72: -1796932874
+      Game-Stage-Asset-Pack2_73: 822804319
+      Game-Stage-Asset-Pack2_74: 1671573193
+      Game-Stage-Asset-Pack2_75: 916991000
+      Game-Stage-Asset-Pack2_76: -1283156451
+      Game-Stage-Asset-Pack2_77: -1350409320
+      Game-Stage-Asset-Pack2_78: 796870152
+      Game-Stage-Asset-Pack2_79: -1567833628
+      Game-Stage-Asset-Pack2_8: 5619051686659350609
+      Game-Stage-Asset-Pack2_80: -1296374701
+      Game-Stage-Asset-Pack2_81: 2133075543
+      Game-Stage-Asset-Pack2_82: -2049076180
+      Game-Stage-Asset-Pack2_83: -1114505930
+      Game-Stage-Asset-Pack2_84: -1742656728
+      Game-Stage-Asset-Pack2_85: 539309702
+      Game-Stage-Asset-Pack2_86: 1807790146
+      Game-Stage-Asset-Pack2_87: 1557183780
+      Game-Stage-Asset-Pack2_88: -1786840644
+      Game-Stage-Asset-Pack2_89: 1012562152
+      Game-Stage-Asset-Pack2_9: 1931029445415660433
+      Game-Stage-Asset-Pack2_90: 914852400
+      Game-Stage-Asset-Pack2_91: 974305882
+      Game-Stage-Asset-Pack2_92: 1348580352
+      Game-Stage-Asset-Pack2_93: 815102285
+      Game-Stage-Asset-Pack2_94: -448511142
+      Game-Stage-Asset-Pack2_95: 360398733
+      Game-Stage-Asset-Pack2_96: 1922656023
+      Game-Stage-Asset-Pack2_97: -2035102060
+      Game-Stage-Asset-Pack2_98: 1658158796
+      Game-Stage-Asset-Pack2_99: 1595435262
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
